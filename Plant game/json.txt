@@ -1,1 +1,1 @@
-{"images":[],"blogs":[{"title":"Plant game blog","components":[],"published":false,"id":"2a8e202f-27ee-4593-80d0-12f3db3d081d"}]}
+{"images":[],"blogs":[{"title":"Plant game blog","components":[],"published":false,"id":"2a8e202f-27ee-4593-80d0-12f3db3d081d"},{"title":"Plant game blog nr2","components":[],"published":false,"id":"78d00776-4d93-4860-a087-7eef492a648b"}]}
