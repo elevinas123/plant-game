@@ -1,1 +1,1 @@
-{"images":[],"blogs":[{"title":"Labas rytas ","components":[],"published":false,"id":"b89c9545-9a45-487f-b249-67bcfa40c340"},{"title":"testas 2","components":[],"published":false,"id":"02c088ed-27d0-4599-9db3-74e94d288532"}]}
+{"images":[],"blogs":[{"title":"Labas rytas ","components":[],"published":false,"id":"b89c9545-9a45-487f-b249-67bcfa40c340"},{"title":"testas 3","components":[],"published":false,"id":"02c088ed-27d0-4599-9db3-74e94d288532"}]}
